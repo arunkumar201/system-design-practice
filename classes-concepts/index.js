@@ -1,5 +1,5 @@
 class User {
-	age=23; //PROPERTY NAME 
+	age = 23; //PROPERTY NAME
 	constructor(name, email, password) {
 		this.email = email;
 		this.name = name;
